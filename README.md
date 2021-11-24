@@ -9,4 +9,4 @@
 * [02 Low Fidelity Prototyp](https://annaalehmann.github.io/IFD/02_Aufgabe/02_Low_Fid_Prototyp.pdf)
 
 ### Aufgabe 2
-* [03 High Fidelity Prototyp](https://xd.adobe.com/view/dbba9899-befb-49eb-bbe2-9d67d4acc58c-8ee9/?fullscreen&hints=off)
+* [03 High Fidelity Prototyp](https://xd.adobe.com/view/e079e2e9-1514-46c3-ad81-221fba2fc586-b52a/?fullscreen&hints=off)
