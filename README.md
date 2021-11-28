@@ -14,4 +14,4 @@
 ### Aufgabe 4
 * [04.1 Letifaden - User Testing](https://annaalehmann.github.io/IFD/04_Aufgabe/Leitfaden_User_Testing.pdf)
 * [04.2 Auswertung - User Testing](https://annaalehmann.github.io/IFD/04_Aufgabe/Auswertung_User_Testing.pdf)
-* [04.2 Fertiger High Fidelity Prototyp](https://xd.adobe.com/view/644b819d-c6d3-4580-8e52-2ca1b7fe9fcc-3118/?fullscreen&hints=off)
+* [04.3 Fertiger High Fidelity Prototyp](https://xd.adobe.com/view/644b819d-c6d3-4580-8e52-2ca1b7fe9fcc-3118/?fullscreen&hints=off)
