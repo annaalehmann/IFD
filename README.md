@@ -16,5 +16,5 @@
 * [04.2 Auswertung - User Testing](https://annaalehmann.github.io/IFD/04_Aufgabe/Auswertung_User_Testing.pdf)
 
 ### Aufgabe 5
-* [05.1 Fertiger High Fidelity Prototyp](https://xd.adobe.com/view/11c2851c-80e7-4a92-bfb9-26b5b6898bec-4491/?fullscreen&hints=off)
+* [05.1 Fertiger High Fidelity Prototyp](https://xd.adobe.com/view/61d93dcf-5656-4564-85fb-7d1df36329f1-348a/?fullscreen&hints=off)
 * [05.2 Dokumentation] ()
