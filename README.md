@@ -17,4 +17,4 @@
 
 ### Aufgabe 5
 * [05.1 Fertiger High Fidelity Prototyp](https://xd.adobe.com/view/61d93dcf-5656-4564-85fb-7d1df36329f1-348a/?fullscreen&hints=off)
-* [05.2 Dokumentation] (https://annaalehmann.github.io/IFD/05_Aufgabe/Dokumentation.pdf)
+* [05.2 Dokumentation](https://annaalehmann.github.io/IFD/05_Aufgabe/Dokumentation.pdf)
