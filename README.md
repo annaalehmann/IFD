@@ -20,4 +20,4 @@
 * [05.2 Dokumentation](https://annaalehmann.github.io/IFD/05_Aufgabe/Dokumentation.pdf)
 
 ### Aufgabe 6
-* [06.1 Dialog Flow](https://annaalehmann.github.io/IFD/06_Aufgabe//dialog_flow.html)
+* [06.1 Dialog Flow](https://annaalehmann.github.io/IFD/06_Aufgabe/dialog_flow.html)
