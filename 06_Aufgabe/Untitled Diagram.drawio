@@ -1,1 +1,774 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T21:49:22.587Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Es6Ls8Uy1cXmj1YWqmEx" version="16.2.4" type="github"><diagram id="lwts1vBJQRhG_m1DUNbc" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-08T21:50:55.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="XAxgQeEjsoBISgPCOBKB" version="16.2.4" type="github">
+  <diagram id="lwts1vBJQRhG_m1DUNbc" name="Page-1">
+    <mxGraphModel dx="946" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wNniy3vnPMrzjeAurs0c-1" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Hallo, du möchtest mehr über Lebensmittelverschwendung erfahren? Über welches Thema möchtest du dich informieren?&lt;br&gt;&lt;br&gt;Top 10 Lebensmittelverschwender&lt;br&gt;Ursachen&lt;br&gt;Folgen&amp;nbsp;&lt;br&gt;Maßnahmen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1479" y="120" width="234" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-15" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Hey foody!&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;gradientColor=none;arcSize=43;" parent="1" vertex="1">
+          <mxGeometry x="1479" y="70" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-17" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;Gemessen an dem Pro-Kopf-Verbrauch sind das die zehn größten Lebensmittelverschwender weltweit:&lt;br&gt;&lt;/span&gt;01 USA&lt;br&gt;02 Deutschland&lt;br&gt;03 Australien&lt;br&gt;04 Spanien&lt;br&gt;05 Japan&lt;br&gt;06 Russland&lt;br&gt;07 Frankreich&lt;br&gt;08 UK&lt;br&gt;09 China&amp;nbsp;&lt;br&gt;Indien&lt;span&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;Möchtest du mehr Informationen zu einem Land?&lt;/font&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;arcSize=11;" parent="1" vertex="1">
+          <mxGeometry x="610" y="370" width="270" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-28" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Gib mir mehr Informationen zur Verschwendung im Land (Land).&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="540" y="650" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-35" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Gib mir Informationen zu den Top 10 Lebensmittelverschwendern.&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=33;" parent="1" vertex="1">
+          <mxGeometry x="646" y="300" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-39" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Das Land (Land) hat eine jährliche Pro-Kopf-Verschwendung von (Pro-Kopf) kg und ist somit der (Rang) größte Lebensmittelverschwender weltweit. Die Lebensmittelverschwendung insgesamt liegt bei (Gesamt) kg pro Jahr.&lt;br&gt;&lt;br&gt;Möchtest du mehr Informationen zur Lebensmittelverschwendung der Sektoren eines Landes?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="628" y="1180" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-43" value="&lt;span&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Um Lebensmittelverschwendung zu vermeiden solltest du unter anderem deine Lebensmittel richtig lagern und lernen bewusster einzukaufen. Außerdem solltest du das Mindesthaltbarkeitsdatum richtig verstehen und betreibe öfter Reste-Küche, um wirklich alle Lebensmittel verwerten zu können.&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;(info: weitere Fragen die gestellt werden können)&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2810" y="423.00000000000006" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-50" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Gib mir Informationen zu den Ursachen.&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=28;" parent="1" vertex="1">
+          <mxGeometry x="1475" y="300" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-51" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;Lebensmittelverschwendung tritt von der Herstellung über den Handel bis hin zur Gastronomie oder dem privaten Haushalt auf. Die Ursache für den verschwenderischen Umgang mit Lebensmitteln sind vielfältig und hängen vom jeweiligen Sektor ab.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;Möchtest du mehr Informationen zu den Ursachen innerhalb eines Sektors?&lt;/font&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1425" y="370" width="280" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-53" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Zu den Ursachen von Lebensmittelverschwendung im Sektor (Sektor) zählen (Ursache 1), (Ursache 2) und (Ursache 3).&lt;br&gt;&lt;br&gt;Möchtest du mehr Informationen zu den Folgen von Lebensmittelverschwendung?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="1033" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;" parent="1" source="wNniy3vnPMrzjeAurs0c-35" target="wNniy3vnPMrzjeAurs0c-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-61" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="744" y="270" as="sourcePoint" />
+            <mxPoint x="2920" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-64" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.491;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wNniy3vnPMrzjeAurs0c-1" target="wNniy3vnPMrzjeAurs0c-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1589" y="170" as="sourcePoint" />
+            <mxPoint x="1639" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-65" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.491;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1593.7939999999999" y="270.65" as="sourcePoint" />
+            <mxPoint x="1593.9" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-88" value="&lt;font style=&quot;font-size: 10px&quot;&gt;In welchem Land ist die Verschwendung im Sektor (Sektor) am größten/kleinsten?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=23;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1380" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-89" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Die wenigsten/meisten Lebensmittel im Sektor (Sektor) werden im Land (Land) mit einer einer Menge von insgesamt (Tonnen) Tonnen pro Jahr verschwendet.&amp;nbsp;&lt;br&gt;&lt;br&gt;Möchtest du mehr Informationen über die Ursache von Lebensmittelverschwendung in einem Sektor?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1665" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-95" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="wNniy3vnPMrzjeAurs0c-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="744" y="340" as="sourcePoint" />
+            <mxPoint x="744" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-97" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.515;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="wNniy3vnPMrzjeAurs0c-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="744" y="270" as="sourcePoint" />
+            <mxPoint x="784" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-99" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="744" y="840" as="sourcePoint" />
+            <mxPoint x="744" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-101" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="999.8" y="1360" as="sourcePoint" />
+            <mxPoint x="999.8" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-112" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.515;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1565.15" y="270" as="sourcePoint" />
+            <mxPoint x="1565" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-127" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Welcher Sektor verursacht die größte/kleinste Lebensmittelverschwendung weltweit?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=23;" parent="1" vertex="1">
+          <mxGeometry x="1652" y="576.0099999999999" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-131" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.515;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1565.1500000000003" y="340" as="sourcePoint" />
+            <mxPoint x="1565" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-137" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Den größten/kleinsten Anteil der Lebensmittelverschwendung weltweit verursacht der Sektor (Sektor), mit einem Anteil von (Anteil) Prozent.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Möchtest du mehr Informationen zu den Ursachen innerhalb eines Sektors?&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1635" y="870.0000000000001" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-150" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2930" y="393.00000000000006" as="sourcePoint" />
+            <mxPoint x="2930.23" y="423.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-151" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="wNniy3vnPMrzjeAurs0c-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="620" as="sourcePoint" />
+            <mxPoint x="620" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-152" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="620" as="sourcePoint" />
+            <mxPoint x="869.59" y="647.5799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-153" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="620" as="sourcePoint" />
+            <mxPoint x="870" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-154" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="736.1399999999999" y="620" as="sourcePoint" />
+            <mxPoint x="736.1399999999999" y="600.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-155" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Ja&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="825" y="650" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-156" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Über welches Land willst du mehr Informationen?&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="790" y="706.6700000000001" width="160" height="54.67" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-157" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870.15" y="678.13" as="sourcePoint" />
+            <mxPoint x="869.7400000000001" y="705.7099999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-159" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="761.34" as="sourcePoint" />
+            <mxPoint x="869.5900000000001" y="788.92" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-160" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Land)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="825" y="791.34" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-162" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="840" as="sourcePoint" />
+            <mxPoint x="870" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-163" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="wNniy3vnPMrzjeAurs0c-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="840" as="sourcePoint" />
+            <mxPoint x="750" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-164" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="840" as="sourcePoint" />
+            <mxPoint x="870" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=10;" parent="1" source="wNniy3vnPMrzjeAurs0c-167" target="wNniy3vnPMrzjeAurs0c-168" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-167" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Da ist etwas schief gelaufen.&lt;br&gt;&lt;br&gt;Das Land gehört nicht zur Auswahl. Bitte wähle eines der folgenden Länder:&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;01 USA&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;02 Deutschland&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;03 Australien&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;04 Spanien&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;05 Japan&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;06 Russland&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;07 Frankreich&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;08 UK&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;09 China&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Indien&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="640" y="870" width="210" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-168" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Land)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="700" y="1120" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-169" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="744.77" y="1090" as="sourcePoint" />
+            <mxPoint x="744.77" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-170" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="744.71" y="1148.13" as="sourcePoint" />
+            <mxPoint x="744.71" y="1178.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-171" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Gib mir mehr Informationen über den Sektor (Sektor) im Land (Land).&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1410" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-172" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="wNniy3vnPMrzjeAurs0c-171" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1380" as="sourcePoint" />
+            <mxPoint x="410" y="1460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-173" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1380" as="sourcePoint" />
+            <mxPoint x="639.5900000000001" y="1407.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-174" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1380" as="sourcePoint" />
+            <mxPoint x="640" y="1380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-175" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="756.1399999999999" y="1360" as="sourcePoint" />
+            <mxPoint x="756.1399999999999" y="1340.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-176" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Ja&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="595" y="1410" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-177" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Wähle ein Land aus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1466.67" width="160" height="54.67" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-178" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640.1500000000001" y="1438.13" as="sourcePoint" />
+            <mxPoint x="639.7400000000002" y="1465.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-179" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1522.3400000000001" as="sourcePoint" />
+            <mxPoint x="639.5900000000001" y="1549.92" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-180" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Land)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="595" y="1549.3400000000001" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-181" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.11" y="2250" as="sourcePoint" />
+            <mxPoint x="640.11" y="2250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-182" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="wNniy3vnPMrzjeAurs0c-171" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="2250" as="sourcePoint" />
+            <mxPoint x="540" y="1844.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-184" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640.12" y="1577.0000000000002" as="sourcePoint" />
+            <mxPoint x="639.7100000000002" y="1604.5800000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-185" value="&lt;span style=&quot;font-size: 10px&quot;&gt;(Sektor)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="595" y="1994" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-186" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Wähle einen der drei Sektoren aus: Haushalt, Gastronomie, Handel&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1912.75" width="160" height="54.67" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-188" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640.11" y="2250" as="sourcePoint" />
+            <mxPoint x="639.82" y="2228.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-189" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Im Sektor (Sektor) des Landes (Land) werden insgesamt (Sektorverschwendung) Tonnen Lebensmittel pro Jahr weggeschmissen.&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Möchtest du mehr Informationen über die Ursache von Lebensmittelverschwendung in einem Sektor?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="398.11" y="2270" width="242" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-191" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1360" as="sourcePoint" />
+            <mxPoint x="1000" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-192" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519.5199999999999" y="1380" as="sourcePoint" />
+            <mxPoint x="519.5199999999999" y="1360.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-193" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Da ist etwas schief gelaufen&lt;br&gt;.&lt;br&gt;Das Land gehört nicht zur Auswahl. Bitte wähle eines der folgenden Länder:&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;01 USA&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;02 Deutschland&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;03 Australien&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;04 Spanien&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;05 Japan&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;06 Russland&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;07 Frankreich&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;08 UK&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;09 China&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Indien&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="536" y="1606" width="210" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-196" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Land)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="596" y="1856" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-197" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640.77" y="1826" as="sourcePoint" />
+            <mxPoint x="640.77" y="1856" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-199" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639.8500000000003" y="1884.13" as="sourcePoint" />
+            <mxPoint x="639.4400000000002" y="1911.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-206" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wNniy3vnPMrzjeAurs0c-171" target="wNniy3vnPMrzjeAurs0c-193" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="1650" as="sourcePoint" />
+            <mxPoint x="560" y="1600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="1435" />
+              <mxPoint x="500" y="1716" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-212" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640.1199999999999" y="1967.42" as="sourcePoint" />
+            <mxPoint x="639.71" y="1995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-213" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Da ist etwas schief gelaufen.&lt;br&gt;&lt;br&gt;Ich habe dich leider nicht verstanden. Bitte wähle nochmal eines dieser Sektoren aus:&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Haushalt, Gastronomie, Handel&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="535" y="2050" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-214" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Sektor)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="596" y="2200" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-215" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640.7699999999998" y="2170" as="sourcePoint" />
+            <mxPoint x="640.7699999999998" y="2200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-218" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640.0700000000002" y="2022.13" as="sourcePoint" />
+            <mxPoint x="639.6600000000001" y="2049.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-220" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="wNniy3vnPMrzjeAurs0c-213" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="1720" as="sourcePoint" />
+            <mxPoint x="360" y="1870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="2110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-221" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="wNniy3vnPMrzjeAurs0c-189" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519" y="2250" as="sourcePoint" />
+            <mxPoint x="540" y="2240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-222" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Da ist etwas schief gelaufen.&lt;br&gt;&lt;br&gt;Der Sektor gehört leider nicht zur Auswahl. Bitte wähle einen folgender Sektoren aus:&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Haushalt, Gastronomie, Handel&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="895" y="1457.87" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-223" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Sektor)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="956" y="1607.87" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-224" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000.7699999999998" y="1577.87" as="sourcePoint" />
+            <mxPoint x="1000.7699999999998" y="1607.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-225" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000.0700000000002" y="1430" as="sourcePoint" />
+            <mxPoint x="999.6600000000001" y="1457.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-226" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000.14" y="1636.0000000000002" as="sourcePoint" />
+            <mxPoint x="999.7300000000001" y="1663.5800000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-227" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Gib mir mehr Informationen zu den Ursachen im Sektor (Sektor).&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="610" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-230" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="wNniy3vnPMrzjeAurs0c-227" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="580" as="sourcePoint" />
+            <mxPoint x="1250" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-231" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="580" as="sourcePoint" />
+            <mxPoint x="1499.5900000000001" y="607.5799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-232" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="580" as="sourcePoint" />
+            <mxPoint x="1500" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-234" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Ja&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="1455" y="610" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-235" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Zu welchem Sektor möchtest du mehr Informationen?&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="666.6700000000001" width="160" height="54.67" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-236" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500.15" y="638.1300000000001" as="sourcePoint" />
+            <mxPoint x="1499.7400000000002" y="665.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-237" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="721.3400000000001" as="sourcePoint" />
+            <mxPoint x="1499.5900000000001" y="748.9200000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-238" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Sektor)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="1455" y="751.34" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-239" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="800" as="sourcePoint" />
+            <mxPoint x="1500" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-240" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="wNniy3vnPMrzjeAurs0c-227" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="800" as="sourcePoint" />
+            <mxPoint x="1380" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-241" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="800" as="sourcePoint" />
+            <mxPoint x="1500" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-247" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750.28" y="556.0000000000002" as="sourcePoint" />
+            <mxPoint x="1750.28" y="576.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-248" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1561.62" y="556.0000000000002" as="sourcePoint" />
+            <mxPoint x="1561.62" y="536.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-249" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1370" y="556" as="sourcePoint" />
+            <mxPoint x="1750" y="556" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-250" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1370" y="580" as="sourcePoint" />
+            <mxPoint x="1370" y="556.0100000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-251" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Da ist etwas schief gelaufen.&lt;br&gt;&lt;br&gt;Der Sektor gehört leider nicht zur Auswahl. Bitte wähle einen folgender Sektoren aus:&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Haushalt, Gastronomie, Handel&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="829.0799999999999" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-252" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Sektor)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="1331" y="979.0799999999999" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-253" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1375.7699999999998" y="949.0799999999999" as="sourcePoint" />
+            <mxPoint x="1375.7699999999998" y="979.0799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-254" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1375.0700000000004" y="801.21" as="sourcePoint" />
+            <mxPoint x="1374.66" y="828.79" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-255" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1375.14" y="1007.21" as="sourcePoint" />
+            <mxPoint x="1374.7300000000002" y="1034.79" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-257" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Da ist etwas schief gelaufen.&lt;br&gt;&lt;br&gt;Der Sektor gehört leider nicht zur Auswahl. Bitte wähle einen folgender Sektoren aus:&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Haushalt, Gastronomie, Handel&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1645" y="663.8699999999999" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-258" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Sektor)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="1706" y="813.8699999999999" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-259" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750.7699999999995" y="783.8699999999997" as="sourcePoint" />
+            <mxPoint x="1750.7699999999995" y="813.8699999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-260" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750.0700000000006" y="636" as="sourcePoint" />
+            <mxPoint x="1749.6599999999999" y="663.5799999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-261" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1751.1200000000001" y="842" as="sourcePoint" />
+            <mxPoint x="1750.7100000000003" y="869.5799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-264" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=10;exitX=1;exitY=0.557;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wNniy3vnPMrzjeAurs0c-189" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="2340" as="sourcePoint" />
+            <mxPoint x="1370" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1140" y="2348" />
+              <mxPoint x="1150" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-265" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wNniy3vnPMrzjeAurs0c-89" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="1760" as="sourcePoint" />
+            <mxPoint x="1140" y="1735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-266" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Gib mir Informationen zu den Folgen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=28;" parent="1" vertex="1">
+          <mxGeometry x="2275" y="302.37" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-267" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Lebensmittelverschwendung ein großes Problem für die Umwelt, denn für die Herstellung der Lebensmittel werden unnötig Ressourcen wie Wasser, CO2-Emissionen und Energie verbraucht.&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;br&gt;Möchtest du mehr Informationen zum Ressourcenverbrauch von einem Lebensmittel?&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;(info: Auflistung von Lebensmitteln)&lt;/font&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2225" y="372.37" width="280" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-268" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Bei der Herstellung von 1kg (Lebensmittel) werden (Wasserverbrauch) Liter Wasser, (CO2-Verbrauch) kg CO2-Emissionen und (Energieverbrauch) MJ Energie verbraucht.&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Möchtest du erfahren, was du gegen Lebensmittelverschwendung tun kannst?&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="1035.3700000000001" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-269" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.515;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2365.15" y="272.3699999999998" as="sourcePoint" />
+            <mxPoint x="2365" y="302.3699999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-270" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Welches Lebensmittel hat den größten/kleinsten Ressourcenverbrauch?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=23;" parent="1" vertex="1">
+          <mxGeometry x="2452" y="578.3799999999999" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-271" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.515;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2365.150000000001" y="342.3699999999998" as="sourcePoint" />
+            <mxPoint x="2365" y="372.3699999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-272" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Das Lebensmittel (Lebensmittel) besitzt mit einem Wasserverbrauch von (Wasserverbrauch), einem CO2-Verbrauch von (CO2-Verbrauch) und einem Energieverbrauch von (Energieverbrauch) den größten/kleinsten Energieverbrauch bei der Herstellung.&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Möchtest du mehr Informationen zum Ressourcenverbrauch von einem Lebensmittel?&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2435" y="872.37" width="230" height="157.63" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-273" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Gib mit mehr Informationen zum Ressourcenverbauch vom Lebensmittel (Lebensmittel).&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="1970" y="612.37" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-274" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="wNniy3vnPMrzjeAurs0c-273" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2050" y="582.37" as="sourcePoint" />
+            <mxPoint x="2050" y="662.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-275" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2300" y="582.37" as="sourcePoint" />
+            <mxPoint x="2299.5900000000006" y="609.9499999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-276" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2050" y="582.37" as="sourcePoint" />
+            <mxPoint x="2300" y="582.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-277" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Ja&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="2255" y="612.37" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-278" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Zu welchem Lebensmittel möchtest du mehr Informationen?&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0D6D5;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2220" y="669.0400000000001" width="160" height="54.67" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-279" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2300.15" y="640.5000000000001" as="sourcePoint" />
+            <mxPoint x="2299.7400000000002" y="668.08" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-280" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2300" y="723.7100000000002" as="sourcePoint" />
+            <mxPoint x="2299.5900000000006" y="751.2900000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-281" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Lebensmittel)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="2255" y="753.71" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-282" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2050" y="802.37" as="sourcePoint" />
+            <mxPoint x="2300" y="802.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-283" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="wNniy3vnPMrzjeAurs0c-273" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2050" y="802.37" as="sourcePoint" />
+            <mxPoint x="2180" y="702.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-284" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2300" y="802.37" as="sourcePoint" />
+            <mxPoint x="2300" y="782.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-285" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2550.2799999999997" y="558.37" as="sourcePoint" />
+            <mxPoint x="2550.2799999999997" y="578.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-286" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2361.6200000000003" y="558.37" as="sourcePoint" />
+            <mxPoint x="2361.6200000000003" y="538.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-287" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2170" y="558.37" as="sourcePoint" />
+            <mxPoint x="2550" y="558.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-288" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2170" y="582.37" as="sourcePoint" />
+            <mxPoint x="2170" y="558.3800000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-289" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Da ist etwas schief gelaufen.&lt;br&gt;&lt;br&gt;Das Lebensmittel gehört leider nicht zur Auswahl. Bitte wähle eines folgender Lebensmittel aus:&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Rindfleisch, Milch, Eier, Apfel...&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="831.4499999999999" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-290" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Lebensmittel)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="2131" y="981.4499999999999" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-291" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2175.77" y="951.4499999999999" as="sourcePoint" />
+            <mxPoint x="2175.77" y="981.4499999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-292" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2175.0700000000006" y="803.58" as="sourcePoint" />
+            <mxPoint x="2174.66" y="831.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-293" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2175.14" y="1009.58" as="sourcePoint" />
+            <mxPoint x="2174.7300000000005" y="1037.1599999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-294" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Da ist etwas schief gelaufen.&lt;br&gt;&lt;br&gt;Das Lebensmittel gehört leider nicht zur Auswahl. Bitte wähle eines folgender Lebensmittel aus:&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Rindfleisch, Milch, Eier, Apfel...&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2445" y="666.2399999999999" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-295" value="&lt;font style=&quot;font-size: 10px&quot;&gt;(Lebensmittel)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9C3AF;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="2506" y="816.2399999999999" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-296" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2550.7699999999995" y="786.2399999999999" as="sourcePoint" />
+            <mxPoint x="2550.7699999999995" y="816.2399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-297" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2550.0700000000006" y="638.37" as="sourcePoint" />
+            <mxPoint x="2549.66" y="665.9499999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-298" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2551.12" y="844.37" as="sourcePoint" />
+            <mxPoint x="2550.71" y="871.9499999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-299" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wNniy3vnPMrzjeAurs0c-53" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1530" y="960" as="sourcePoint" />
+            <mxPoint x="2170" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1375" y="1210" />
+              <mxPoint x="1930" y="1200" />
+              <mxPoint x="1930" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-300" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wNniy3vnPMrzjeAurs0c-137" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="880" as="sourcePoint" />
+            <mxPoint x="1930" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-315" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Gib mir mehr Informationen zur Verschwendung im Land (Land).&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="2720" y="319.51" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-316" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="wNniy3vnPMrzjeAurs0c-315" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2800" y="289.51" as="sourcePoint" />
+            <mxPoint x="2800" y="369.51" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-317" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.522;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3050" y="289.51" as="sourcePoint" />
+            <mxPoint x="3049.59" y="317.0899999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-318" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2800" y="289.51" as="sourcePoint" />
+            <mxPoint x="3050" y="289.51" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-319" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2916.14" y="289.51" as="sourcePoint" />
+            <mxPoint x="2916.14" y="269.5100000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-320" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Ja&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEED5;strokeColor=none;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="3005" y="319.51" width="90" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-322" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2800" y="392.36999999999966" as="sourcePoint" />
+            <mxPoint x="3050" y="392.36999999999966" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-323" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="wNniy3vnPMrzjeAurs0c-320" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3050" y="392.36999999999966" as="sourcePoint" />
+            <mxPoint x="3050" y="372.36999999999966" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-325" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2800" y="390" as="sourcePoint" />
+            <mxPoint x="2799.69" y="369.51" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-326" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wNniy3vnPMrzjeAurs0c-268" target="wNniy3vnPMrzjeAurs0c-320" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2730" y="870" as="sourcePoint" />
+            <mxPoint x="2780" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3170" y="1100" />
+              <mxPoint x="3170" y="334" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNniy3vnPMrzjeAurs0c-327" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wNniy3vnPMrzjeAurs0c-272" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2940" y="820" as="sourcePoint" />
+            <mxPoint x="3170" y="951" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
