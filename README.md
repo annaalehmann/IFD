@@ -16,8 +16,8 @@
 * [04.2 Auswertung - User Testing](https://annaalehmann.github.io/IFD/04_Aufgabe/Auswertung_User_Testing.pdf)
 
 ### Aufgabe 5
-* [05.1 Fertiger High Fidelity Prototyp](https://xd.adobe.com/view/61d93dcf-5656-4564-85fb-7d1df36329f1-348a/?fullscreen&hints=off)
+* [05.1 Fertiger High Fidelity Prototyp](https://xd.adobe.com/view/f9bf0c94-c67d-4fc0-b4be-b402d55b9265-acec/?fullscreen&hints=off)
 * [05.2 Dokumentation](https://annaalehmann.github.io/IFD/05_Aufgabe/Dokumentation.pdf)
 
 ### Aufgabe 6
-* [06.1 Dialog Flow](https://annaalehmann.github.io/IFD/06_Aufgabe//dialog_flow.html)
+* [06.1 Dialog Flow](https://annaalehmann.github.io/IFD/06_Aufgabe/dialog_flow.html)
