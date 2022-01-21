@@ -20,7 +20,7 @@
 * [05.2 Dokumentation](https://annaalehmann.github.io/IFD/05_Aufgabe/Dokumentation.pdf)
 
 ### Aufgabe 6
-* [06.1 Dialog Flow](https://annaalehmann.github.io/IFD/06_Aufgabe/dialog-flow.html)
+* [06.1 Dialog Flow](https://annaalehmann.github.io/IFD/06_Aufgabe/dialog_flow.html)
 
 ### Aufgabe 7
 * [07.1 VUI Prototyp](https://cloud.protopie.io/p/93665782b4)
